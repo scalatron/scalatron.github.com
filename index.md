@@ -5,16 +5,14 @@ title: Scalatron
 
 Scalatron is a multi-player programming game in which bot programs written in [Scala](http://www.scala-lang.org/)
 compete against each other. It is an educational resource for individuals or teams that want to learn more about the
-Scala programming language or want to hone their Scala programming skills.
-
-Follow [@scalatron on Twitter](http://twitter.com/scalatron).
+Scala programming language or want to hone their Scala programming skills. - Follow [@scalatron](http://twitter.com/scalatron) on Twitter.
 
 **April 30, 2012: Work in Progress**
 
 ## You Want To Learn Scala?
 
-Install Scalatron and work through the step-by-step tutorial to create your first bot in Scala. Assumes no
-prior knowledge of the language.
+Install Scalatron and work through the step-by-step tutorial to create your first bot in Scala. No prior knowledge
+of Scala is required and you do not need to install anything else (not even Scala).
 
 <table class="resourcetable">
 
@@ -23,16 +21,17 @@ prior knowledge of the language.
 
 <span class='resourcetitle'>Getting Started</span> <br>
 
-<a href="http://github.com/scalatron/scalatron/downloads">Download the Scalatron game</a> and unzip it.
-Go into the <code>/bin</code> directory and run <code>Scalatron.jar</code>.
+Just <a href="http://github.com/scalatron/scalatron/downloads">download the game</a>, unzip it and start the server.
+For more details, read about <a href="pages/gettingstarted.html">getting started with Scalatron</a>.
 
 </td>
 <td>
 
 <span class='resourcetitle'>Scala Tutorial</span> <br>
 
-A <a href="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Tutorial.pdf">step-by-step tutorial</a>
-teaches you Scala and helps you build your first bot.
+Scalatron comes with a <a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20Tutorial.md">step-by-step tutorial</a>
+(<a href="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Tutorial.pdf">pdf</a>)
+that teaches you Scala and takes you through increasingly sophisticated bot examples.
 
 </td>
 </tr>
@@ -40,18 +39,20 @@ teaches you Scala and helps you build your first bot.
 <tr>
 <td>
 
-<span class='resourcetitle'>The Botwar Game</span> <br>
+<span class='resourcetitle'>The Rules Of The Game</span> <br>
 
-Compete for energy units in a cell-based arena with edible and harmful plants and beasts.
-For details, see the <a href="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Game%20Rules.pdf">Game Rules</a>.
+In the Scalatron game, bots compete for energy in a cell-based arena with edible and harmful plants and beasts.
+All is explained in the <a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20Game%20Rules.md">game rules</a>
+(<a href="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Game%20Rules.pdf">pdf</a>).
 
 </td>
 <td>
 
 <span class='resourcetitle'>How Scalatron Talks To Your Bot</span> <br>
 
-Read the <a href="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Protocol.pdf">Protocol</a>
-spec to understand exactly how the game and your bot interact.
+Scalatron loads your bot as a plug-in. The <a href="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/markdown/Scalatron%20Protocol.md">protocol specification</a>
+(<a href="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Protocol.pdf">pdf</a>)
+explains exactly how the game interacts with your code.
 
 </td>
 </tr>
@@ -61,14 +62,14 @@ spec to understand exactly how the game and your bot interact.
 
 <span class='resourcetitle'>Benchmark &amp; High Scores</span> <br>
 
-You can use the <a href="benchmark.html">Scalatron Benchmark</a> to rate your bot and compare it to others' in the high scores.
+You can use the <a href="pages/benchmark.html">Scalatron Benchmark</a> to rate your bot and compare it to others' in the high scores.
 
 </td>
 <td>
 
 <span class='resourcetitle'>Scalatron User Group</span> <br>
 
-Visit the <a href="benchmark.html">user group</a> on Google Groups to discuss your bot strategies, post your code or publish your benchmark scores.
+Visit the <a href="https://groups.google.com/d/forum/scalatron">Scalatron user group</a> to discuss your bot strategies, post your code or publish your benchmark scores.
 
 </td>
 </tr>
@@ -133,7 +134,7 @@ The source code is available here on github and contributions are welcome!
 
 <span class='resourcetitle'>How To Build Scalatron</span> <br>
 
-If you want to build Scalatron yourself from source code, check out the simple <a href="howtobuild.html">build instructions</a>.
+If you want to build Scalatron yourself from source code, check out the simple <a href="pages/howtobuild.html">build instructions</a>.
 
 </td>
 <td>
