@@ -20,38 +20,50 @@ prior knowledge of the language.
 
 <tr>
 <td>
+
 **Getting Started**
 
 [Download the Scalatron game](http://github.com/scalatron/scalatron/downloads) and unzip it. Go into the `/bin` directory and run `Scalatron.jar`.
+
 </td>
 <td>
+
 **The Botwar Game**
 
 Compete for energy units in a cell-based arena with edible and harmful plants and beasts. For details, see the [Game Rules](https://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Game%20Rules.pdf).
+
 </td>
 </tr>
 
 <tr>
 <td>
+
 **Scala Tutorial**
 
 A [step-by-step tutorial](https://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Tutorial.pdf) teaches you Scala and helps you build your first bot.
+
 </td>
 <td>
+
 ...
+
 </td>
 </tr>
 
 <tr>
 <td>
+
 **The Scalatron Protocol**
 
 Read the [Protocol](https://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Protocol.pdf) spec to understand exactly how the game and your bot interact.
+
 </td>
 <td>
+
 **High Scores**
 
 You can use the [Scalatron Benchmark](benchmark.html) to rate your bot and compare it to others' in the [high score list](benchmark.html).
+
 </td>
 </tr>
 
