@@ -54,15 +54,6 @@ a:focus {
 
 
 
-/*******************************************************************************
-Custom Styles
-*******************************************************************************/
-
-.resourcetable
-{
-    border-style: none; width: 800px
-}
-
 
 
 /*******************************************************************************
@@ -442,4 +433,32 @@ Small Device Styles
     font-size: 11px;
   }
 
+}
+
+
+
+
+/*******************************************************************************
+Custom Styles
+*******************************************************************************/
+
+.resourcetable
+{
+    width: 100%;
+    border-collapse: collapse;
+    border: 0;
+    padding: 0;
+}
+.resourcetable td
+{
+    width: 50%;
+    border: 0;
+    padding: 10px 10px 10px 0;
+}
+
+.resourcetitle
+{
+    font-weight:bold;
+    font-size: 18px;
+    font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
 }

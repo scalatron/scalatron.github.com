@@ -13,7 +13,7 @@ Follow [@scalatron on Twitter](http://twitter.com/scalatron).
 
 ## You Want To Learn Scala?
 
-Install Scalatron and work through the detailed, step-by-step tutorial for writing bots in Scala. It assumes no
+Install Scalatron and work through the step-by-step tutorial to create your first bot in Scala. Assumes no
 prior knowledge of the language.
 
 <table class="resourcetable">
@@ -21,16 +21,17 @@ prior knowledge of the language.
 <tr>
 <td>
 
-<span style='font-weight:bold'>Getting Started</span>
+<span class='resourcetitle'>Getting Started</span> <br>
 
-[Download the Scalatron game](http://github.com/scalatron/scalatron/downloads) and unzip it. Go into the `/bin` directory and run `Scalatron.jar`.
+<a href="http://github.com/scalatron/scalatron/downloads">Download the Scalatron game</a> and unzip it. Go into the <code>/bin</code> directory and run <code>Scalatron.jar</code>.
 
 </td>
 <td>
 
-**The Botwar Game**
+<span class='resourcetitle'>The Botwar Game</span> <br>
 
-Compete for energy units in a cell-based arena with edible and harmful plants and beasts. For details, see the [Game Rules](https://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Game%20Rules.pdf).
+Compete for energy units in a cell-based arena with edible and harmful plants and beasts.
+For details, see the <a hreg="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Game%20Rules.pdf">Game Rules</a>.
 
 </td>
 </tr>
@@ -38,9 +39,10 @@ Compete for energy units in a cell-based arena with edible and harmful plants an
 <tr>
 <td>
 
-**Scala Tutorial**
+<span class='resourcetitle'>Scala Tutorial</span> <br>
 
-A [step-by-step tutorial](https://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Tutorial.pdf) teaches you Scala and helps you build your first bot.
+A <a href="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Tutorial.pdf">step-by-step tutorial</a>
+teaches you Scala and helps you build your first bot.
 
 </td>
 <td>
@@ -53,16 +55,17 @@ A [step-by-step tutorial](https://github.com/scalatron/scalatron/raw/master/Scal
 <tr>
 <td>
 
-**The Scalatron Protocol**
+<span class='resourcetitle'>The Scalatron Protocol</span> <br>
 
-Read the [Protocol](https://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Protocol.pdf) spec to understand exactly how the game and your bot interact.
+Read the <a href="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Protocol.pdf">Protocol</a>
+spec to understand exactly how the game and your bot interact.
 
 </td>
 <td>
 
-**High Scores**
+<span class='resourcetitle'>Benchmark &amp; High Scores</span> <br>
 
-You can use the [Scalatron Benchmark](benchmark.html) to rate your bot and compare it to others' in the [high score list](benchmark.html).
+You can use the <a href="benchmark.html">Scalatron Benchmark</a> to rate your bot and compare it to others' in the high scores.
 
 </td>
 </tr>
