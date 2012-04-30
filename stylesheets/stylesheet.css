@@ -45,12 +45,25 @@ blockquote, q {
 table {
   border-collapse: collapse;
   border-spacing: 0;
-  border-style: none;
 }
 
 a:focus {
   outline: none;
 }
+
+
+
+
+/*******************************************************************************
+Custom Styles
+*******************************************************************************/
+
+.resourcetable
+{
+    border-style: none; width: 800px
+}
+
+
 
 /*******************************************************************************
 Theme Styles
@@ -273,7 +286,7 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 640px;
+  max-width: 800px;
   padding: 20px 10px;
   margin: 0 auto;
 }

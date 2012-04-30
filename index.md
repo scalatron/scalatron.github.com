@@ -16,7 +16,7 @@ Follow [@scalatron on Twitter](http://twitter.com/scalatron).
 Install Scalatron and work through the detailed, step-by-step tutorial for writing bots in Scala. It assumes no
 prior knowledge of the language.
 
-<table>
+<table class="resourcetable">
 
 <tr>
 <td>
@@ -74,6 +74,9 @@ You can use the [Scalatron Benchmark](benchmark.html) to rate your bot and compa
 ## You Want To Organize a Tournament?
 
 The basic idea is that a fun, competitive environment and a self-paced tutorial (pdf) that provides quick results is a great way to quickly become productive in a new language.
+
+Source code for the Scalatron server, tools and APIs
+
 
 
 ## You Want To Make Scalatron Better?
