@@ -7,6 +7,7 @@ Scalatron is a multi-player programming game in which bot programs written in [S
 compete against each other. It is an educational resource for individuals or teams that want to learn more about the
 Scala programming language or want to hone their Scala programming skills. - Follow [@scalatron](http://twitter.com/scalatron) on Twitter.
 
+**April 30, 2012: Work in Progress**
 
 ## You Want To Learn Scala?
 
@@ -21,7 +22,7 @@ of Scala is required and you do not need to install anything else (not even Scal
 <span class='resourcetitle'>Getting Started</span> <br>
 
 Just <a href="http://github.com/scalatron/scalatron/downloads">download the game</a>, unzip it and start the server.
-For more details, read about <a href="gettingstarted.html">getting started with Scalatron</a>.
+For more details, read about <a href="pages/gettingstarted.html">getting started with Scalatron</a>.
 
 </td>
 <td>
@@ -61,7 +62,7 @@ explains exactly how the game interacts with your code.
 
 <span class='resourcetitle'>Benchmark &amp; High Scores</span> <br>
 
-You can use the <a href="benchmark.html">Scalatron Benchmark</a> to rate your bot and compare it to others' in the high scores.
+You can use the <a href="pages/benchmark.html">Scalatron Benchmark</a> to rate your bot and compare it to others' in the high scores.
 
 </td>
 <td>
@@ -133,7 +134,7 @@ The source code is available here on github and contributions are welcome!
 
 <span class='resourcetitle'>How To Build Scalatron</span> <br>
 
-If you want to build Scalatron yourself from source code, check out the simple <a href="howtobuild.html">build instructions</a>.
+If you want to build Scalatron yourself from source code, check out the simple <a href="pages/howtobuild.html">build instructions</a>.
 
 </td>
 <td>
