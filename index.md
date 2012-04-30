@@ -21,7 +21,7 @@ prior knowledge of the language.
 <tr>
 <td>
 
-**Getting Started**
+<span style='font-weight:bold'>Getting Started</span>
 
 [Download the Scalatron game](http://github.com/scalatron/scalatron/downloads) and unzip it. Go into the `/bin` directory and run `Scalatron.jar`.
 
