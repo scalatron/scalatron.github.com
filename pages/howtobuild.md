@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Scalatron - How To Build
+title: Scalatron
 ---
 
+## How To Build
 
 If you want to get the source code and build Scalatron yourself,
 [download the sources of the 'master' branch](http://github.com/scalatron/scalatron/zipball/master and build them

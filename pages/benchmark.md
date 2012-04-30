@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scalatron - Benchmark and High Scores
+title: Scalatron
 ---
 
 ## The Scalatron Bot Benchmark
