@@ -7,7 +7,6 @@ Scalatron is a multi-player programming game in which bot programs written in [S
 compete against each other. It is an educational resource for individuals or teams that want to learn more about the
 Scala programming language or want to hone their Scala programming skills. - Follow [@scalatron](http://twitter.com/scalatron) on Twitter.
 
-**April 30, 2012: Work in Progress**
 
 ## You Want To Learn Scala?
 
