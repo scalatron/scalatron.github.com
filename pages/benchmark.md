@@ -3,7 +3,7 @@ layout: default
 title: Scalatron
 ---
 
-## The Scalatron Bot Benchmark
+## The Scalatron Benchmark
 
 The highly official *Scalatron Bot Benchmark* lets you compare the performance of your bots to those of others.
 It is somewhat artificial because it evaluates your bot in isolation, but at least it gives you a baseline.
@@ -22,7 +22,7 @@ To get your benchmark score, follow these steps:
 
 The highest verified score sent in by a user (rounded to the nearest hundred):
 
-* Harvester Bot by @mj604 (April 17, 2012): 941,200
+* **Harvester Bot** by @mj604 (April 17, 2012): 941,200
 
 
 ## Scores Of Example Bots
