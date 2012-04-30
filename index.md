@@ -23,20 +23,10 @@ prior knowledge of the language.
 
 <span class='resourcetitle'>Getting Started</span> <br>
 
-<a href="http://github.com/scalatron/scalatron/downloads">Download the Scalatron game</a> and unzip it. Go into the <code>/bin</code> directory and run <code>Scalatron.jar</code>.
+<a href="http://github.com/scalatron/scalatron/downloads">Download the Scalatron game</a> and unzip it.
+Go into the <code>/bin</code> directory and run <code>Scalatron.jar</code>.
 
 </td>
-<td>
-
-<span class='resourcetitle'>The Botwar Game</span> <br>
-
-Compete for energy units in a cell-based arena with edible and harmful plants and beasts.
-For details, see the <a hreg="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Game%20Rules.pdf">Game Rules</a>.
-
-</td>
-</tr>
-
-<tr>
 <td>
 
 <span class='resourcetitle'>Scala Tutorial</span> <br>
@@ -45,9 +35,23 @@ A <a href="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Sc
 teaches you Scala and helps you build your first bot.
 
 </td>
+</tr>
+
+<tr>
 <td>
 
-...
+<span class='resourcetitle'>The Botwar Game</span> <br>
+
+Compete for energy units in a cell-based arena with edible and harmful plants and beasts.
+For details, see the <a href="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Game%20Rules.pdf">Game Rules</a>.
+
+</td>
+<td>
+
+<span class='resourcetitle'>How Scalatron Talks To Your Bot</span> <br>
+
+Read the <a href="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Protocol.pdf">Protocol</a>
+spec to understand exactly how the game and your bot interact.
 
 </td>
 </tr>
@@ -55,17 +59,16 @@ teaches you Scala and helps you build your first bot.
 <tr>
 <td>
 
-<span class='resourcetitle'>The Scalatron Protocol</span> <br>
+<span class='resourcetitle'>Benchmark &amp; High Scores</span> <br>
 
-Read the <a href="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Protocol.pdf">Protocol</a>
-spec to understand exactly how the game and your bot interact.
+You can use the <a href="benchmark.html">Scalatron Benchmark</a> to rate your bot and compare it to others' in the high scores.
 
 </td>
 <td>
 
-<span class='resourcetitle'>Benchmark &amp; High Scores</span> <br>
+<span class='resourcetitle'>Scalatron User Group</span> <br>
 
-You can use the <a href="benchmark.html">Scalatron Benchmark</a> to rate your bot and compare it to others' in the high scores.
+Visit the <a href="benchmark.html">user group</a> on Google Groups to discuss your bot strategies, post your code or publish your benchmark scores.
 
 </td>
 </tr>
@@ -76,43 +79,96 @@ You can use the <a href="benchmark.html">Scalatron Benchmark</a> to rate your bo
 
 ## You Want To Organize a Tournament?
 
-The basic idea is that a fun, competitive environment and a self-paced tutorial (pdf) that provides quick results is a great way to quickly become productive in a new language.
+A Scalatron hack-a-thon may be the quickest and most entertaining way to get a group of programmers productive in Scala.
 
-Source code for the Scalatron server, tools and APIs
+<table class="resourcetable">
+
+<tr>
+<td>
+
+<span class='resourcetitle'>How To Organize A Tournament</span> <br>
+
+This section will point to a check-list, resources and tips for organizers.
+
+</td>
+<td>
+
+<span class='resourcetitle'>Setting Up A Server</span> <br>
+
+The <a href="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Server%20Setup.pdf">server setup guide</a>
+explains in detail how to set up and configure a Scalatron game server.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<span class='resourcetitle'>Troubleshooting</span> <br>
+
+This section will collect tips for debugging troubles with the Scalatron setup.
+
+</td>
+<td>
+
+...
+
+</td>
+</tr>
+
+</table>
 
 
 
 ## You Want To Make Scalatron Better?
 
+Scalatron is a resource for the Scala community and is in the public domain.
+The source code is available here on github and contributions are welcome!
 
 
-## How to Run
+<table class="resourcetable">
 
-If you want to run Scalatron to play the game or to run a workshop with friends, simply
-[download the latest version](http://github.com/scalatron/scalatron/downloads) - you do not need the
-source code. Unzip the downloaded file into a local directory, then look for the `Readme.txt` file to get
-started. Have fun!
+<tr>
+<td>
 
-## How to Build
+<span class='resourcetitle'>How To Build Scalatron</span> <br>
 
-If you want to get the source code and build Scalatron yourself,
-[download the sources of the 'master' branch](http://github.com/scalatron/scalatron/zipball/master and build them
-with [SBT](http://github.com/harrah/xsbt). Once you have SBT installed, switch to the directory where you downloaded
-the Scalatron sources (the directory that contains this the `build.sbt` file) and run
+If you want to build Scalatron yourself from source code, check out the simple <a href="howtobuild.html">build instructions</a>.
 
-    sbt dist
+</td>
+<td>
 
-This will generate a new directory called `dist` which contains the same content as the regular distribution.
-Now `cd` into `/dist/bin` and run `java -jar Scalatron.jar`.
+<span class='resourcetitle'>How To Contribute</span> <br>
 
+<a href ="http://github.com/scalatron/scalatron/fork">Fork Scalatron here on github</a> and send pull requests.
+Bring your own ideas or check out the <a href="http://github.com/scalatron/scalatron/issues?state=open">list of open issues</a>,
+many of which contain pointers on how/where to get started.
 
-## Contributing
+</td>
+</tr>
 
-[Fork Scalatron here on github](http://github.com/scalatron/scalatron/fork and send pull requests.
-Bring your own ideas or check out the [list of open issues](http://github.com/scalatron/scalatron/issues?state=open),
-many of which contain relatively detailed pointers on how/where to get started implementing something.
-Before embarking on something major, you can [contact the maintainer](mailto:scalatron@hotmail.com) and ask for
-feedback or tips on where to get started.
+<tr>
+<td>
+
+<span class='resourcetitle'>The Scalatron API</span> <br>
+
+The Scalatron game server exposes a simple RESTful web API that allows you to manage users, upload source code,
+build bots and track the leader board. Check out the
+<a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/devdoc/markdown/Scalatron%20APIs.md">API specification</a>
+for details.
+
+</td>
+<td>
+
+<span class='resourcetitle'>Contact The Maintainer</span> <br>
+
+Before embarking on something major, you can <a href="mailto:scalatron@hotmail.com">contact the maintainer</a>
+and ask for feedback or tips on where to get started.
+
+</td>
+</tr>
+
+</table>
 
 
 ## License
