@@ -3,12 +3,69 @@ layout: default
 title: Scalatron
 ---
 
-This is the source code for Scalatron, a competitive multi-player programming game in which coders pit bot
-programs (written in Scala) against each other. It is an educational resource for groups of programmers or
-individuals that want to learn more about the Scala programming language or want to hone their Scala programming
-skills.
+Scalatron is a multi-player programming game in which bot programs written in [Scala](http://www.scala-lang.org/)
+compete against each other. It is an educational resource for individuals or teams that want to learn more about the
+Scala programming language or want to hone their Scala programming skills.
 
-Follow Scalatron on Twitter at <a href="http://twitter.com/scalatron">@scalatron</a>.
+Follow [@scalatron on Twitter](http://twitter.com/scalatron).
+
+**April 30, 2012: Work in Progress**
+
+## You Want To Learn Scala?
+
+Install Scalatron and work through the detailed, step-by-step tutorial for writing bots in Scala. It assumes no
+prior knowledge of the language.
+
+<table>
+
+<tr>
+<td>
+**Getting Started**
+
+[Download the Scalatron game](http://github.com/scalatron/scalatron/downloads) and unzip it. Go into the `/bin` directory and run `Scalatron.jar`.
+</td>
+<td>
+**The Botwar Game**
+
+Compete for energy units in a cell-based arena with edible and harmful plants and beasts. For details, see the [Game Rules](https://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Game%20Rules.pdf).
+</td>
+</tr>
+
+<tr>
+<td>
+**Scala Tutorial**
+
+A [step-by-step tutorial](https://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Tutorial.pdf) teaches you Scala and helps you build your first bot.
+</td>
+<td>
+...
+</td>
+</tr>
+
+<tr>
+<td>
+**The Scalatron Protocol**
+
+Read the [Protocol](https://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Protocol.pdf) spec to understand exactly how the game and your bot interact.
+</td>
+<td>
+**High Scores**
+
+You can use the [Scalatron Benchmark](benchmark.html) to rate your bot and compare it to others' in the [high score list](benchmark.html).
+</td>
+</tr>
+
+</table>
+
+
+
+## You Want To Organize a Tournament?
+
+The basic idea is that a fun, competitive environment and a self-paced tutorial (pdf) that provides quick results is a great way to quickly become productive in a new language.
+
+
+## You Want To Make Scalatron Better?
+
 
 
 ## How to Run
@@ -42,6 +99,6 @@ feedback or tips on where to get started.
 
 ## License
 
-Scalatron is licensed under the [http://creativecommons.org/licenses/by/3.0/](Creative Commons Attribution 3.0 Unported License).
+Scalatron is licensed under the [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
 The documentation, tutorial and source code are intended as a community resource and you can basically use, copy and
 improve them however you want. Included works are subject to their respective licenses.
