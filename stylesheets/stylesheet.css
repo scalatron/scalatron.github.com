@@ -307,7 +307,8 @@ Full-Width Styles
 }
 
 #header_wrap .inner {
-  padding: 50px 10px 30px 10px;
+    background-image: url(../images/header.png);
+    padding: 50px 10px 30px 10px;
 }
 
 #project_title {
@@ -442,23 +443,66 @@ Small Device Styles
 Custom Styles
 *******************************************************************************/
 
-.resourcetable
+/* holding the innertable and menu items */
+.outertable
 {
-    width: 100%;
+    width: 900px;
     border-collapse: collapse;
     border: 0;
     padding: 0;
 }
-.resourcetable td
+.outertable td
+{
+    border: 0;
+    padding: 10px 10px 10px 0;
+}
+
+/* holding the innertable and menu items */
+.innertable
+{
+    width: 800px;
+    border-collapse: collapse;
+    border: 0;
+    padding: 0;
+}
+.innertable td
 {
     width: 50%;
     border: 0;
     padding: 10px 10px 10px 0;
 }
 
+/* titles of individual items within the innertable */
 .resourcetitle
 {
     font-weight:bold;
     font-size: 18px;
     font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+}
+
+/* menu items in right column of outertable */
+.resourcemenu
+{
+    font-weight:normal;
+    font-size: 15px;
+    font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+    line-height: 2.0;
+    padding: 5px;
+}
+
+.resourcemenu a {
+    text-decoration: none;
+    color: #0080ef;
+    text-shadow: none;
+
+    transition: color 0.5s ease;
+    transition: text-shadow 0.5s ease;
+    -webkit-transition: color 0.5s ease;
+    -webkit-transition: text-shadow 0.5s ease;
+    -moz-transition: color 0.5s ease;
+    -moz-transition: text-shadow 0.5s ease;
+    -o-transition: color 0.5s ease;
+    -o-transition: text-shadow 0.5s ease;
+    -ms-transition: color 0.5s ease;
+    -ms-transition: text-shadow 0.5s ease;
 }
