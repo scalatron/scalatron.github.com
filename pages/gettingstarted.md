@@ -52,7 +52,7 @@ Note that in order to run Scalatron, you need to have the
 
 Once you have the Scalatron server running, you should see two windows come up:
 
-![Scalatron IDE and Game](images/composition_500.png)
+![Scalatron IDE and Game](/images/composition_500.png)
 
 * The Scalatron **tournament window** showing a game in action, with a score board and leader board.
   If you are running a workshop with other players, you could use a projector to display this on a wall.
