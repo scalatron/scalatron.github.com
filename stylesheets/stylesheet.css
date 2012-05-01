@@ -62,7 +62,7 @@ Theme Styles
 
 body {
   box-sizing: border-box;
-  color:#373737;
+  color: #373737;
   background: #212121;
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
@@ -106,7 +106,7 @@ h6 {
 }
 
 p {
-  margin: 10px 0 15px 0;
+  margin: 10px 100px 15px 0;
 }
 
 footer p {
@@ -205,17 +205,18 @@ blockquote {
 }
 
 ul, ol, dl {
-  margin-bottom: 15px
+    margin: 10px 100px 10px 15px;
+    /* margin-bottom: 15px */
 }
 
 ul li {
-  list-style: inside;
-  padding-left: 20px;
+  list-style: outside;
+  padding: 0 0 10px 0;
 }
 
 ol li {
-  list-style: decimal inside;
-  padding-left: 20px;
+  list-style: decimal outside;
+  padding: 0 0 10px 0;
 }
 
 dl dt {
@@ -446,7 +447,7 @@ Custom Styles
 /* holding the innertable and menu items */
 .outertable
 {
-    width: 900px;
+    width: 800px;
     border-collapse: collapse;
     border: 0;
     padding: 0;
@@ -460,7 +461,7 @@ Custom Styles
 /* holding the innertable and menu items */
 .innertable
 {
-    width: 800px;
+    width: 700px;
     border-collapse: collapse;
     border: 0;
     padding: 0;
@@ -492,7 +493,7 @@ Custom Styles
 
 .resourcemenu a {
     text-decoration: none;
-    color: #0080ef;
+    color: #909090;
     text-shadow: none;
 
     transition: color 0.5s ease;

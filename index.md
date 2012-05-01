@@ -5,12 +5,12 @@ title: Scalatron
 
 Scalatron is a multi-player programming game in which bot programs written in [Scala](http://www.scala-lang.org/)
 compete against each other. It is an educational resource for individuals or teams that want to learn more about the
-Scala programming language or want to hone their Scala programming skills. - Follow [@scalatron](http://twitter.com/scalatron) on Twitter.
+Scala programming language or want to hone their Scala programming skills. - For updates, follow [@scalatron](http://twitter.com/scalatron) on Twitter.
 
 
-## If You Want To Play The Game...
+## To Play The Game...
 
-...while learning Scala, install Scalatron and work through the step-by-step tutorial to create your first bot.
+...while learning Scala: install Scalatron and work through the step-by-step tutorial to create your first bot.
 No prior knowledge of Scala is required and you do not need to install anything else (not even Scala).
 
 <table class="outertable">
@@ -34,7 +34,7 @@ Want more detail? Read about <a href="pages/gettingstarted.html">getting started
 
 Scalatron comes with a <a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20Tutorial.md">step-by-step tutorial</a>
 (also as <a href="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Tutorial.pdf">pdf</a>)
-that talks you through Scala with increasingly sophisticated bot examples.
+that talks you through Scala and bot coding with increasingly sophisticated examples.
 
 </td>
 </tr>
@@ -44,7 +44,7 @@ that talks you through Scala with increasingly sophisticated bot examples.
 
 <span class='resourcetitle'>Explore The Rules Of The Game</span> <br>
 
-In the Scalatron game, bots compete for energy in a cell-based arena with edible and harmful plants and beasts.
+In the game, bots compete for energy in a cell-based arena with edible and harmful plants and beasts.
 All is explained in the <a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20Game%20Rules.md">game rules</a>
 (also as <a href="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Game%20Rules.pdf">pdf</a>).
 
@@ -70,9 +70,11 @@ You can use the Scalatron <a href="pages/benchmark.html">benchmark</a> to rate y
 </td>
 <td>
 
-<span class='resourcetitle'>Share With Others</span> <br>
+<span class='resourcetitle'>Share Your Bots</span> <br>
 
-Visit the Scalatron <a href="https://groups.google.com/d/forum/scalatron">user group</a> to discuss your bot strategies, post your code or publish benchmark scores.
+<a href="https://gist.github.com/">Post a gist</a> with your code and <a href="https://twitter.com/">tweet it</a>,
+or visit the Scalatron <a href="https://groups.google.com/d/forum/scalatron">user group</a> to discuss strategies,
+post code or publish scores.
 
 </td>
 </tr>
@@ -84,14 +86,13 @@ Visit the Scalatron <a href="https://groups.google.com/d/forum/scalatron">user g
 <div class="resourcemenu">
 <nobr><a href="pages/gettingstarted.html">get started</a></nobr><br>
 <nobr><a href="https://github.com/scalatron/scalatron/downloads">download</a></nobr><br>
+<nobr><a href="pages/benchmark.html">benchmark</a></nobr><br>
+<nobr><a href="https://groups.google.com/d/forum/scalatron">user group</a></nobr><br>
 <nobr>&nbsp;</nobr><br>
 <nobr><a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20Player%20Setup.md">player setup</a> | <a href="https://raw.github.com/scalatron/scalatron/master/Scalatron/doc/pdf/Scalatron%20Player%20Setup.pdf">pdf</a></nobr><br>
 <nobr><a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20Game%20Rules.md">game rules</a> | <a href="https://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Game%20Rules.pdf">pdf</a></nobr><br>
 <nobr><a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20Protocol.md">bot protocol</a> | <a href="https://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Protocol.pdf">pdf</a></nobr><br>
 <nobr><a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20Tutorial.md">tutorial</a> | <a href="https://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Tutorial.pdf">pdf</a></nobr><br>
-<nobr>&nbsp;</nobr><br>
-<nobr><a href="pages/benchmark.html">benchmark</a></nobr><br>
-<nobr><a href="https://groups.google.com/d/forum/scalatron">user group</a></nobr><br>
 </div>
 </td>
 </tr>
@@ -100,9 +101,9 @@ Visit the Scalatron <a href="https://groups.google.com/d/forum/scalatron">user g
 
 
 
-## If You Want To Organize a Tournament...
+## To Run A Tournament...
 
-Set up a server, attach a projector, install the game, order some pizza and start hacking bots!
+...get together with some frieds, set up a server, attach a projector, order some pizza and start hacking!
 A Scalatron hack-a-thon may be the quickest and most entertaining way to get a group of programmers into Scala.
 
 <table class="outertable">
@@ -113,7 +114,7 @@ A Scalatron hack-a-thon may be the quickest and most entertaining way to get a g
 <tr>
 <td>
 
-<span class='resourcetitle'>Get Prepared For The Tournament</span> <br>
+<span class='resourcetitle'>Get Organized</span> <br>
 
 Invite some friends, set up a server and have fun. For the more meticulous, here are some
 <a href="pages/tournament.html">check-lists, resources and tips</a> for organizers.
@@ -130,12 +131,27 @@ tells you how.
 
 </td>
 </tr>
+<tr>
+<td>
+
+<span class='resourcetitle'>Share Your Experiences</span> <br>
+
+Visit the Scalatron <a href="https://groups.google.com/d/forum/scalatron">user group</a> to share your experiences
+with running tournaments, hack-a-thons or training workshops.
+
+</td>
+<td>
+&nbsp;
+</td>
+</tr>
 </table>
 
 </td>
 <td style="width=90px">
 <div class="resourcemenu">
-<nobr><a href="pages/tournament.html">checkslists</a></nobr><br>
+<nobr><a href="pages/tournament.html">checklists</a></nobr><br>
+<nobr><a href="https://groups.google.com/d/forum/scalatron">user group</a></nobr><br>
+<nobr>&nbsp;</nobr><br>
 <nobr><a href="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/markdown/Scalatron%20Server%20Setup.md">server setup</a> | <a href="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Server%20Setup.pdf">pdf</a></nobr><br>
 </div>
 </td>
@@ -144,9 +160,9 @@ tells you how.
 
 
 
-## If You Want To Make Scalatron Better...
+## To Make Scalatron Better...
 
-Get the source code here on github, build it on your machine, add cool stuff or fix some bugs and contribute
+...get the source code here on github, build it on your machine, add cool stuff or fix some bugs and contribute
 your improvements back to the community! Scalatron is a resource for all Scala enthusiasts and is in the public domain.
 
 
@@ -160,7 +176,8 @@ your improvements back to the community! Scalatron is a resource for all Scala e
 
 <span class='resourcetitle'>Build Scalatron On Your Computer</span> <br>
 
-Download the source code from github, then check out the simple <a href="pages/howtobuild.html">build instructions</a>.
+Download the source code from github, then check out the simple <a href="pages/howtobuild.html">build instructions</a>
+to compile it on your own machine.
 
 </td>
 <td>
@@ -169,7 +186,7 @@ Download the source code from github, then check out the simple <a href="pages/h
 
 <a href ="http://github.com/scalatron/scalatron/fork">Fork Scalatron here on github</a> and send pull requests.
 Bring your own ideas or check out the <a href="http://github.com/scalatron/scalatron/issues?state=open">list of open issues</a>,
-many of which contain pointers on how/where to get started.
+many with info on how to get started.
 
 </td>
 </tr>
@@ -179,8 +196,8 @@ many of which contain pointers on how/where to get started.
 
 <span class='resourcetitle'>Use the APIs</span> <br>
 
-The game server provides a Scala API, some of which it also exposes as a simple RESTful web API. It lets you
-manage users, create versions, share code, build bots and track the tournament loop. Check out the
+Scalatron comes with a Scala API and a RESTful web API that lets you manage users, create versions, share code,
+build bots and track a tournament. Check out the
 <a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/devdoc/markdown/Scalatron%20APIs.md">API specification</a>
 for details.
 
@@ -202,9 +219,8 @@ and ask for feedback or tips on where to get started.
 <td style="width=90px">
 <div class="resourcemenu">
 <nobr><a href="pages/howtobuild.html">how to build</a></nobr><br>
-<nobr><a href ="http://github.com/scalatron/scalatron/fork">fork</a></nobr><br>
 <nobr><a href ="http://github.com/scalatron/scalatron/issues?state=open">open issues</a></nobr><br>
-<nobr><a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/devdoc/markdown/Scalatron%20APIs.md">API spec</a></nobr><br>
+<nobr><a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/devdoc/markdown/Scalatron%20APIs.md">APIs</a></nobr><br>
 <nobr><a href ="mailto:scalatron@hotmail.com">contact</a></nobr><br>
 </div>
 </td>
@@ -213,7 +229,7 @@ and ask for feedback or tips on where to get started.
 
 
 
-## Other Resources
+## ...Anything Else?
 
 <table class="outertable">
 <tr>
@@ -223,14 +239,18 @@ and ask for feedback or tips on where to get started.
 <tr>
 <td>
 
-<span class='resourcetitle'>Remote-Control The Scalatron Server</span> <br>
+<span class='resourcetitle'>Command-Line Interface</span> <br>
 
-The installation includes a simple <a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20CLI.md">command-line interface</a> (CLI)
-for Scalatron that allows you to remotely manage users, upload source code, build bots and track the leader board from the command line.
+Scalatron comes with a basic <a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20CLI.md">command-line interface</a> (CLI)
+that lets you manage users, upload code and build bots from the command line.
 
 </td>
 <td>
 
+<span class='resourcetitle'>Community</span> <br>
+
+Enthusiasts post usefuly tips or tricks for Scalatron elsewhere on the web, which we are happy
+to <a href="pages/elsewhere.html">tell you about</a>. Have something to add? <a href="mailto:scalatron@hotmail.com">Let us know</a>!
 
 </td>
 </tr>
@@ -242,6 +262,7 @@ for Scalatron that allows you to remotely manage users, upload source code, buil
 <td style="width=90px">
 <div class="resourcemenu">
 <nobr><a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20CLI.md">command line</a></nobr><br>
+<nobr><a href="pages/elsewhere.html">links</a></nobr><br>
 </div>
 </td>
 </tr>
