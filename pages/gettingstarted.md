@@ -3,7 +3,7 @@ layout: default
 title: Scalatron
 ---
 
-## Getting Started With Scalatron
+## Get Started With Scalatron
 
 Scalatron consists of these main parts:
 
@@ -64,21 +64,21 @@ Once you have the Scalatron server running, you should see two windows come up:
 To play, you can now write a bot program in Scala, build it, and publish it into the game.
 There are two basic approaches to doing this, which are explained in laborious detail in the
 <a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20Player%20Setup.md">player setup guide</a>
-(also as <a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/pdf/Scalatron%20Player%20Setup.pdf">pdf</a>):
+(also as <a href="https://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Player%20Setup.pdf">pdf</a>):
 
 * The **"serious" path** involves setting up a local development environment like IDEA, Eclipse or SBT.
   This approach is fairly complex and is recommended only for experienced programmers that wish to have full
-  control over their development process. For details on how to do this, please refer to the documentation linked above.
+  control over their development process. For details on how to do this, please refer to the *player setup guide* linked above.
 * The **"casual" path** involves using the browser-based Scalatron IDE, which is a snap.
 
-Here are the steps for getting started with the browser-based approach:
+Here are the steps for getting started with the "casual", browser-based approach:
 
 * If you do not have a browser window open already that is connected to the Scalatron server, open a web browser
-  now and point it to the appropriate web address.
-
-    * If you are on the same computer, try `http://localhost:8080`
-    * If you are on another computer, try the address the server tells you about on the console,
-      such as `http://192.168.0.1:8080`
+  now and point it to the appropriate web address:
+  <ul>
+    <li>If you are on the same computer, try `http://localhost:8080`</li>
+    <li>If you are on another computer, try the address the server tells you about on the console, such as `http://192.168.0.1:8080`</li>
+  </ul>
 
 * This should bring up the Scalatron log-in screen with the title "Welcome To Scalatron"
 * Log in as `Administrator` (there is no password, initially)
@@ -94,6 +94,6 @@ Here are the steps for getting started with the browser-based approach:
 
 * Read the contents of the `Readme.txt` file in your installation directory (or <a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/Readme.txt">online</a>)
 * All of the documentation is also available in the installation directory, in a sub-directory called `/doc` (or <a href="https://github.com/scalatron/scalatron/tree/master/Scalatron/doc">online</a>)
-* Once you know your way around, invite some friends for a <a href="pages/tournament.html">bot coding tournament</a> and have fun!
-* [Fork Scalatron here on github](http://github.com/scalatron/scalatron/fork) and help us make it better!
+* Once you know your way around, invite some friends for a <a href="/pages/tournament.html">bot coding tournament</a> and have fun!
+* [Fork Scalatron on github](https://github.com/scalatron/scalatron) and help us make it better!
 

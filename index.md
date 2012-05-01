@@ -54,7 +54,7 @@ All is explained in the <a href="https://github.com/scalatron/scalatron/blob/mas
 
 <span class='resourcetitle'>Find Out How Scalatron Talks To Your Bot</span> <br>
 
-Scalatron loads your bot as a plug-in. The <a href="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/markdown/Scalatron%20Protocol.md">protocol specification</a>
+Scalatron loads your bot as a plug-in. The <a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20Protocol.md">protocol specification</a>
 (also as <a href="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Protocol.pdf">pdf</a>)
 explains exactly how the game interacts with your code.
 
@@ -126,7 +126,7 @@ Invite some friends, set up a server and have fun. For the more meticulous, here
 <span class='resourcetitle'>Optimize Your Server</span> <br>
 
 Want to run Scalatron with special settings? The
-<a href="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/markdown/Scalatron%20Server%20Setup.md">server setup guide</a>
+<a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20Server%20Setup.md">server setup guide</a>
 (also as <a href="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Server%20Setup.pdf">pdf</a>)
 tells you how.
 
@@ -153,7 +153,7 @@ with running tournaments, hack-a-thons or training workshops.
 <nobr><a href="pages/tournament.html">checklists</a></nobr><br>
 <nobr><a href="https://groups.google.com/d/forum/scalatron">user group</a></nobr><br>
 <nobr>&nbsp;</nobr><br>
-<nobr><a href="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/markdown/Scalatron%20Server%20Setup.md">server setup</a> | <a href="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Server%20Setup.pdf">pdf</a></nobr><br>
+<nobr><a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20Server%20Setup.md">server setup</a> | <a href="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Server%20Setup.pdf">pdf</a></nobr><br>
 </div>
 </td>
 </tr>
@@ -185,7 +185,7 @@ to compile it on your own machine.
 
 <span class='resourcetitle'>Contribute Improvements</span> <br>
 
-<a href ="http://github.com/scalatron/scalatron/fork">Fork Scalatron here on github</a> and send pull requests.
+<a href ="http://github.com/scalatron/scalatron">Fork Scalatron here on github</a> and send pull requests.
 Bring your own ideas or check out the <a href="http://github.com/scalatron/scalatron/issues?state=open">list of open issues</a>,
 many with info on how to get started.
 
@@ -250,8 +250,8 @@ that lets you manage users, upload code and build bots from the command line.
 
 <span class='resourcetitle'>Community</span> <br>
 
-Enthusiasts post usefuly tips or tricks for Scalatron elsewhere on the web, which we are happy
-to <a href="pages/elsewhere.html">tell you about</a>. Have something to add? <a href="mailto:scalatron@hotmail.com">Let us know</a>!
+Enthusiasts post <a href="pages/elsewhere.html">usefuly tips or tricks</a> for Scalatron elsewhere on the web, which
+we are happy to share with you. Have something to add? <a href="mailto:scalatron@hotmail.com">Let us know</a>!
 
 </td>
 </tr>
