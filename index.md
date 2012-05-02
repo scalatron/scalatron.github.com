@@ -251,7 +251,7 @@ that lets you manage users, upload code and build bots from the command line.
 
 <span class='resourcetitle'>Community</span> <br>
 
-Enthusiasts post <a href="pages/elsewhere.html">usefuly tips or tricks</a> for Scalatron elsewhere on the web, which
+Enthusiasts post <a href="pages/elsewhere.html">useful tips or tricks</a> for Scalatron elsewhere on the web, which
 we are happy to share with you. Have something to add? <a href="mailto:scalatron@hotmail.com">Let us know</a>!
 
 </td>
