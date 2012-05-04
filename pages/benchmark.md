@@ -20,8 +20,8 @@ To get your benchmark score, follow these steps:
 **Tips**:
 
 * To accelerate the simulation, resize the window to a small size.
-* To allow maximum CPU allocation to the simulation, use the command line option `-maxfps 1000'.
-* You can also try the Scalatron command line tool's `benchmark` command.
+* To allow maximum CPU allocation to the simulation, use the command line option `-maxfps 1000`.
+* You can also try the Scalatron [command line tool's](https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20CLI.md) `benchmark` command.
 
 ## Official High Score
 
