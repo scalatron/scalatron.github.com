@@ -3,16 +3,17 @@ layout: default
 title: Scalatron
 ---
 
-Scalatron is a multi-player programming game in which bot programs written in [Scala](http://www.scala-lang.org/)
-compete against each other. It is an educational resource for individuals or teams that want to learn more about the
-Scala programming language or want to hone their Scala programming skills. - For updates, follow [@scalatron](http://twitter.com/scalatron) on Twitter.
+Scalatron is a free, open-source programming game in which bots, written in [Scala](http://www.scala-lang.org/),
+compete in a virtual arena for energy and survival. You can play by yourself against the computer or organize
+a tournament with friends. Scalatron may be the quickest and most entertaining way to become productive in
+Scala. - For updates, follow [@scalatron](http://twitter.com/scalatron) on Twitter.
 
 <img src='/images/composition_700.png' alt='Scalatron IDE and Game' style='width:700px;'/>
 
 
 ## To Play The Game...
 
-...while learning Scala: install Scalatron and work through the step-by-step tutorial to create your first bot.
+...install Scalatron and work through the step-by-step tutorial to create your first bot.
 No prior knowledge of Scala is required and you do not need to install anything else (not even Scala).
 
 <table class="outertable">
