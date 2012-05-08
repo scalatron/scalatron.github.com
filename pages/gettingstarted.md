@@ -76,8 +76,8 @@ Here are the steps for getting started with the "casual", browser-based approach
 * If you do not have a browser window open already that is connected to the Scalatron server, open a web browser
   now and point it to the appropriate web address:
   <ul>
-    <li>If you are on the same computer, try `http://localhost:8080`</li>
-    <li>If you are on another computer, try the address the server tells you about on the console, such as `http://192.168.0.1:8080`</li>
+    <li>If you are on the same computer, try <code>http://localhost:8080</code></li>
+    <li>If you are on another computer, try the address the server tells you about on the console, such as <code>http://192.168.0.1:8080</code></li>
   </ul>
 
 * This should bring up the Scalatron log-in screen with the title "Welcome To Scalatron"
