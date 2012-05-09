@@ -272,6 +272,14 @@ we are happy to share with you. Have something to add? <a href="mailto:scalatron
 </table>
 
 
+
+
+## &nbsp;
+
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="scalatron">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
 ## &nbsp;
 
 **License**. Scalatron is licensed under the [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
