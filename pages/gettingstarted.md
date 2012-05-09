@@ -44,8 +44,8 @@ It can be started in two ways:
 * By double-clicking the application file `Scalatron.jar`
 * By opening a terminal, changing into the `/bin` directory and running `java -jar Scalatron.jar`
 
-Note that in order to run Scalatron, you need to have the
-<a href="http://www.java.com/download/">Java Runtime Environment</a> installed.
+Note that in order to run Scalatron, you need to have a sufficiently recent
+<a href="http://www.java.com/download/">Java Runtime Environment</a> installed. Scalatron requires version 1.6 or later.
 
 
 ### What You Should See
@@ -57,6 +57,13 @@ Once you have the Scalatron server running, you should see two windows come up:
 * A **web browser** showing a "Welcome To Scalatron" log-in screen; this is the entry page of the browser-based
   administration tools and of the Scalatron IDE (Integrated Development Environment). The IDE lets players edit,
   build, test and publish your bots without installing anything else.
+
+
+### Not Working?
+
+If you have problems launching or configuring the Scalatron server or accessing it from your browser, check out the
+trouble-shooting guide in the `/doc` directory of the installation, or
+[right here online](https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20Troubleshooting.md).
 
 
 ### How To Play
