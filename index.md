@@ -201,7 +201,7 @@ many with info on how to get started.
 
 Scalatron comes with a Scala API and a RESTful web API that lets you manage users, create versions, share code,
 build bots and track a tournament. Check out the
-<a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/devdoc/markdown/Scalatron%20APIs.md">API specification</a>
+<a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20APIs.md">API specification</a>
 for details.
 
 </td>
@@ -223,7 +223,7 @@ and ask for feedback or tips on where to get started.
 <div class="resourcemenu">
 <nobr><a href="pages/howtobuild.html">how to build</a></nobr><br>
 <nobr><a href ="http://github.com/scalatron/scalatron/issues?state=open">open issues</a></nobr><br>
-<nobr><a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/devdoc/markdown/Scalatron%20APIs.md">APIs</a></nobr><br>
+<nobr><a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20APIs.md">APIs</a></nobr><br>
 <nobr><a href ="mailto:scalatron@hotmail.com">contact</a></nobr><br>
 </div>
 </td>
