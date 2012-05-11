@@ -189,7 +189,7 @@ to compile it on your own machine.
 
 <a href ="http://github.com/scalatron/scalatron">Fork Scalatron here on github</a> and send pull requests.
 Bring your own ideas or check out the <a href="http://github.com/scalatron/scalatron/issues?state=open">list of open issues</a>,
-many with info on how to get started.
+many with info on how to get started. Read about the <a href="pages/architecture.html">architecture</a>.
 
 </td>
 </tr>
@@ -223,6 +223,7 @@ and ask for feedback or tips on where to get started.
 <div class="resourcemenu">
 <nobr><a href="pages/howtobuild.html">how to build</a></nobr><br>
 <nobr><a href ="http://github.com/scalatron/scalatron/issues?state=open">open issues</a></nobr><br>
+<nobr><a href="pages/architecture.html">architecture</a></nobr><br>
 <nobr><a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20APIs.md">APIs</a></nobr><br>
 <nobr><a href ="mailto:scalatron@hotmail.com">contact</a></nobr><br>
 </div>
