@@ -18,8 +18,11 @@ Have something to add? [Let us know!](mailto:scalatron@hotmail.com)
 
 ## Example Bots & Frameworks
 
+* [Scalatron Bot Framework](https://gist.github.com/2643617) by Jed Wesley-Smith ([@jedws](http://twitter.com/jedws))
 * [Scalatron Bot Toolkit](https://github.com/skipoleschris/scalatron-bot), by Chris Turner ([@skipoleschris](http://twitter.com/skipoleschris))
 * [PandaCub Bot](https://bitbucket.org/asflierl/pandacub/wiki/Home) with combinator parsing and Dijkstra path finding, by Andreas Flierl ([@asflierl](http://twitter.com/asflierl))
+* [Brian's Bot](https://gist.github.com/2760581) from ScalaSyd Hack Night May 2012, by Brian McKenna ([@puffnfresh](http://twitter.com/puffnfresh))
+* [Keynan's Bot](https://gist.github.com/2760576) from ScalaSyd Hack Night May 2012, by Keynan Pratt
 
 
 ## Workshop Announcements
