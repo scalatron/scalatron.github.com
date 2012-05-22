@@ -144,7 +144,13 @@ with running tournaments, hack-a-thons or training workshops.
 
 </td>
 <td>
-&nbsp;
+
+<span class='resourcetitle'>Create Your Own Game</span> <br>
+
+As an experimental feature, Scalatron can now be used as a platform for your very own programming game.
+Read <a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20Pluggable%20Games.md">how it's done</a>,
+then write your own game and let others play it!
+
 </td>
 </tr>
 </table>
@@ -154,6 +160,7 @@ with running tournaments, hack-a-thons or training workshops.
 <div class="resourcemenu">
 <nobr><a href="pages/tournament.html">checklists</a></nobr><br>
 <nobr><a href="https://groups.google.com/d/forum/scalatron">user group</a></nobr><br>
+<nobr><a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20Pluggable%20Games.md">your own game</a></nobr><br>
 <nobr>&nbsp;</nobr><br>
 <nobr><a href="https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20Server%20Setup.md">server setup</a> | <a href="http://github.com/scalatron/scalatron/raw/master/Scalatron/doc/pdf/Scalatron%20Server%20Setup.pdf">pdf</a></nobr><br>
 </div>
