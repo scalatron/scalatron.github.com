@@ -19,10 +19,11 @@ There are two common reasons people get together with friends to run a Scalatron
 
 To run a workshop, you need the following things:
 
-* **A server**: the spec depends on the number of players.
+* A **Server**: the spec depends on the number of players.
 <ul>
-    <li>For up to six players, we've had good experience with an old Mac Mini, 1GB RAM, 2 CPUs.</li>
+    <li>For up to six players, we've had good experience with a 2009 Mac Mini, 1GB RAM, 2 cores.</li>
     <li>For larger groups (up to 20 players), you'll probably want beefier hardware and more RAM.</li>
+    <li>In synthetic stress tests, Scalatron handled simultaneous 50 players on a 2007 Mac Pro, 4GB RAM, 8 cores.</li>
     <li>If you find that something works well (or not), please <a href="mailto:scalatron@hotmail.com">drop us a note</a>!</li>
 </ul>
 * **Players** (up to 20):
