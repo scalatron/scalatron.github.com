@@ -106,7 +106,7 @@ post code or publish scores.
 
 ## To Run A Tournament...
 
-...get together with some frieds, set up a server, attach a projector, order some pizza and start hacking!
+...get together with some friends, set up a server, attach a projector, order some pizza and start hacking!
 A Scalatron hack-a-thon may be the quickest and most entertaining way to get a group of programmers into Scala.
 
 <table class="outertable">
