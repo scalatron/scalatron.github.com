@@ -31,6 +31,7 @@ To get your "freestyle" benchmark score, follow these steps:
 
 The highest *verified* "freestyle" scores sent in by users (rounded to the nearest hundred):
 
+* **[TinyBot](https://github.com/arbfranklin/tinybot)** by [@arbfranklin](http://twitter.com/arbfranklin) (July 19, 2012): 12,330,400
 * **[PandaCub](https://bitbucket.org/asflierl/pandacub/wiki/Home)** by [@asflierl](http://twitter.com/asflierl) (May 4, 2012): 2,760,800
 * **Harvester Bot** by @mj604 (April 17, 2012): 941,200
 
